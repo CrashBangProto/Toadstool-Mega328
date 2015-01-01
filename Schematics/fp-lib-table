@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name toadstool)(type KiCad)(uri "E:\\ACR Documents\\OneDrive\\KiCad Projects\\Toadstool\\toadstool.pretty")(options "")(descr "Toadstool Components"))
+)

@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 10/12/2014 17:33:22
+
+BeginCmp
+TimeStamp = /546E36D5;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E3722;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54740D95;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54740BFB;
+Reference = C4;
+ValeurCmp = 22pF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5470DE88;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E3458;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = toadstool:BARREL_JACK_No_Slot;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E3491;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E3CA7;
+Reference = D2;
+ValeurCmp = PWR;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E3600;
+Reference = F1;
+ValeurCmp = 750mA;
+IdModule  = toadstool:MiniSMDPTC-4532;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E32A6;
+Reference = IC1;
+ValeurCmp = ATMEGA328P-P;
+IdModule  = Sockets_DIP:DIP-28__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E30CC;
+Reference = K1;
+ValeurCmp = SHIELD;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E3889;
+Reference = K2;
+ValeurCmp = V-SELECT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E33FC;
+Reference = K4;
+ValeurCmp = ICSP;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54721DBB;
+Reference = K5;
+ValeurCmp = PIN 2-8;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x07;
+EndCmp
+
+BeginCmp
+TimeStamp = /54721EFE;
+Reference = K6;
+ValeurCmp = PIN 21-28;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54721D44;
+Reference = K7;
+ValeurCmp = XTAL;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54721E98;
+Reference = K8;
+ValeurCmp = PIN 15-19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /54721E39;
+Reference = K9;
+ValeurCmp = PIN 11-14;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E4104;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E4257;
+Reference = R2;
+ValeurCmp = 120R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E41B5;
+Reference = R3;
+ValeurCmp = 200R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E461F;
+Reference = R4;
+ValeurCmp = 360R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5470E6D6;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /547495FF;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = toadstool:SW_PUSH;
+EndCmp
+
+BeginCmp
+TimeStamp = /546E3F9D;
+Reference = U1;
+ValeurCmp = LD1117;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+EndListe
