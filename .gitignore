@@ -43,6 +43,6 @@ Temporary Items
 .apdisk
 
 #Kicad Backups, zip files and pdfs
-.bak
-.zip
-.pdf
+*.bak
+*.zip
+*.pdf
