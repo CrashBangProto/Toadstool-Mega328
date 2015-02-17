@@ -44,5 +44,7 @@ Temporary Items
 
 #Kicad Backups, zip files and pdfs
 *.bak
+*.bck
+*.kicad_pcb-bak
 *.zip
 *.pdf
