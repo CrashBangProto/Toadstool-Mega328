@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 10/12/2014 17:33:22
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 23/02/2015 21:13:57
 
 BeginCmp
 TimeStamp = /546E36D5;
@@ -88,7 +88,7 @@ BeginCmp
 TimeStamp = /546E33FC;
 Reference = K4;
 ValeurCmp = ICSP;
-IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+IdModule  = Toadstool:ICSP_Header_2x03;
 EndCmp
 
 BeginCmp
