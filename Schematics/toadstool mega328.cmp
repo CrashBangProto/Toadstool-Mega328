@@ -1,17 +1,17 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 10/12/2014 17:33:22
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 23/03/2015 13:07:54
 
 BeginCmp
 TimeStamp = /546E36D5;
 Reference = C1;
 ValeurCmp = 10uF;
-IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_HandSoldering;
+IdModule  = toadstool:c_elec_4x5.3;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E3722;
 Reference = C2;
 ValeurCmp = 10uF;
-IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_HandSoldering;
+IdModule  = toadstool:c_elec_4x5.3;
 EndCmp
 
 BeginCmp
@@ -53,7 +53,7 @@ BeginCmp
 TimeStamp = /546E3CA7;
 Reference = D2;
 ValeurCmp = PWR;
-IdModule  = LEDs:LED-0805;
+IdModule  = Toadstool:LED-0805;
 EndCmp
 
 BeginCmp
@@ -88,7 +88,7 @@ BeginCmp
 TimeStamp = /546E33FC;
 Reference = K4;
 ValeurCmp = ICSP;
-IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+IdModule  = Toadstool:ICSP_Header_2x03;
 EndCmp
 
 BeginCmp
@@ -130,35 +130,35 @@ BeginCmp
 TimeStamp = /546E4104;
 Reference = R1;
 ValeurCmp = R;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
+IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E4257;
 Reference = R2;
 ValeurCmp = 120R;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
+IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E41B5;
 Reference = R3;
 ValeurCmp = 200R;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
+IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E461F;
 Reference = R4;
 ValeurCmp = 360R;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
+IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /5470E6D6;
 Reference = R5;
 ValeurCmp = 10k;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
+IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
 BeginCmp

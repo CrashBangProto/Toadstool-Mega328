@@ -265,6 +265,7 @@ $FPLIST
  Pin_Header_Angled_2X03
  Socket_Strip_Straight_2X03
  Socket_Strip_Angled_2X03
+ ICSP_Header_2X03
 $ENDFPLIST
 DRAW
 S -100 -95 -50 -105 0 1 0 N
