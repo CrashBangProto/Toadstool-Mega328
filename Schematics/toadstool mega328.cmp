@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 23/03/2015 13:07:54
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 24/03/2015 19:44:51
 
 BeginCmp
 TimeStamp = /546E36D5;
 Reference = C1;
 ValeurCmp = 10uF;
-IdModule  = toadstool:c_elec_4x5.3;
+IdModule  = Toadstool:c_elec_4x5.3;
 EndCmp
 
 BeginCmp
@@ -73,7 +73,7 @@ EndCmp
 BeginCmp
 TimeStamp = /546E30CC;
 Reference = K1;
-ValeurCmp = SHIELD;
+ValeurCmp = CAP;
 IdModule  = Socket_Strips:Socket_Strip_Straight_2x06;
 EndCmp
 

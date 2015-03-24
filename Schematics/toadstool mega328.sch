@@ -38,7 +38,7 @@ encoding utf-8
 Sheet 1 1
 Title "Toadstool Mega328"
 Date ""
-Rev "0.1"
+Rev "0.2"
 Comp "Crash-Bang Prototyping"
 Comment1 ""
 Comment2 ""
@@ -117,7 +117,7 @@ U 1 1 546E36D5
 P 3550 1350
 F 0 "C1" H 3600 1450 50  0000 L CNN
 F 1 "10uF" H 3600 1250 50  0000 L CNN
-F 2 "toadstool:c_elec_4x5.3" H 3550 1350 60  0001 C CNN
+F 2 "Toadstool:c_elec_4x5.3" H 3550 1350 60  0001 C CNN
 F 3 "" H 3550 1350 60  0000 C CNN
 	1    3550 1350
 	1    0    0    -1  

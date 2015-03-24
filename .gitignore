@@ -48,3 +48,4 @@ Temporary Items
 *.kicad_pcb-bak
 *.zip
 *.pdf
+*cache*
