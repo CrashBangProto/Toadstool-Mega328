@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 24/03/2015 19:44:51
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 29/03/2015 21:01:24
 
 BeginCmp
 TimeStamp = /546E36D5;
@@ -46,7 +46,7 @@ BeginCmp
 TimeStamp = /546E3491;
 Reference = D1;
 ValeurCmp = DIODE;
-IdModule  = Discret:D3;
+IdModule  = Toadstool:Diode_D3;
 EndCmp
 
 BeginCmp
@@ -71,15 +71,22 @@ IdModule  = Sockets_DIP:DIP-28__300_ELL;
 EndCmp
 
 BeginCmp
-TimeStamp = /546E30CC;
+TimeStamp = /5511B90D;
 Reference = K1;
-ValeurCmp = CAP;
-IdModule  = Socket_Strips:Socket_Strip_Straight_2x06;
+ValeurCmp = CAP_CONN_LHS;
+IdModule  = Toadstool:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5511B5B6;
+Reference = K2;
+ValeurCmp = CAP_CONN_RHS;
+IdModule  = Toadstool:Socket_Strip_Straight_1x06;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E3889;
-Reference = K2;
+Reference = K3;
 ValeurCmp = V-SELECT;
 IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
@@ -129,7 +136,7 @@ EndCmp
 BeginCmp
 TimeStamp = /546E4104;
 Reference = R1;
-ValeurCmp = R;
+ValeurCmp = R330;
 IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
@@ -172,7 +179,7 @@ BeginCmp
 TimeStamp = /546E3F9D;
 Reference = U1;
 ValeurCmp = LD1117;
-IdModule  = SMD_Packages:SOT-223;
+IdModule  = Toadstool:SOT-223;
 EndCmp
 
 EndListe
