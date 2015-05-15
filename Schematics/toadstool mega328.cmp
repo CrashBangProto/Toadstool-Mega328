@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 29/03/2015 21:01:24
+Cmp-Mod V01 Created by Cvpcb (2015-04-22 BZR 5620)-product   date = 07/05/2015 20:02:42
 
 BeginCmp
 TimeStamp = /546E36D5;
@@ -11,35 +11,35 @@ BeginCmp
 TimeStamp = /546E3722;
 Reference = C2;
 ValeurCmp = 10uF;
-IdModule  = toadstool:c_elec_4x5.3;
+IdModule  = Toadstool:c_elec_4x5.3;
 EndCmp
 
 BeginCmp
 TimeStamp = /54740D95;
 Reference = C3;
 ValeurCmp = 22pF;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /54740BFB;
 Reference = C4;
 ValeurCmp = 22pF;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /5470DE88;
 Reference = C5;
 ValeurCmp = 100nF;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E3458;
 Reference = CON1;
 ValeurCmp = BARREL_JACK;
-IdModule  = toadstool:BARREL_JACK_No_Slot;
+IdModule  = Toadstool:BARREL_JACK_No_Slot;
 EndCmp
 
 BeginCmp
@@ -60,14 +60,14 @@ BeginCmp
 TimeStamp = /546E3600;
 Reference = F1;
 ValeurCmp = 750mA;
-IdModule  = toadstool:MiniSMDPTC-4532;
+IdModule  = Toadstool:MiniSMDPTC-4532;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E32A6;
 Reference = IC1;
 ValeurCmp = ATMEGA328P-P;
-IdModule  = Sockets_DIP:DIP-28__300_ELL;
+IdModule  = Toadstool:DIP-28_IC;
 EndCmp
 
 BeginCmp
@@ -88,7 +88,7 @@ BeginCmp
 TimeStamp = /546E3889;
 Reference = K3;
 ValeurCmp = V-SELECT;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+IdModule  = Toadstool:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
@@ -137,42 +137,42 @@ BeginCmp
 TimeStamp = /546E4104;
 Reference = R1;
 ValeurCmp = R330;
-IdModule  = Resistors_SMD:R_0805;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E4257;
 Reference = R2;
 ValeurCmp = 120R;
-IdModule  = Resistors_SMD:R_0805;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E41B5;
 Reference = R3;
 ValeurCmp = 200R;
-IdModule  = Resistors_SMD:R_0805;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /546E461F;
 Reference = R4;
 ValeurCmp = 360R;
-IdModule  = Resistors_SMD:R_0805;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /5470E6D6;
 Reference = R5;
 ValeurCmp = 10k;
-IdModule  = Resistors_SMD:R_0805;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /547495FF;
 Reference = SW1;
 ValeurCmp = RESET;
-IdModule  = toadstool:SW_PUSH;
+IdModule  = Toadstool:Switch_SMT_Alps_SKQGAxE010;
 EndCmp
 
 BeginCmp
