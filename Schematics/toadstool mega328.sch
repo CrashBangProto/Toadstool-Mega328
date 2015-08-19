@@ -53,6 +53,13 @@ F 0 "IC1" H 3500 5850 40  0000 L BNN
 F 1 "ATMEGA328P-P" H 4650 3200 40  0000 L BNN
 F 2 "Toadstool:DIP-28_IC" H 4250 4600 30  0000 C CIN
 F 3 "" H 4250 4600 60  0000 C CNN
+F 4 "Assmann" H 4250 4600 60  0001 C CNN "Manufacturer"
+F 5 "A 28-LC/7-T" H 4250 4600 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 4250 4600 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "3M" H 4250 4600 60  0001 C CNN "Alt_Manufacturer"
+F 8 "4828-3004-CP" H 4250 4600 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 4250 4600 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "-" H 4250 4600 60  0001 C CNN "Contract_Manuf_SKU"
 	1    4250 4600
 	1    0    0    -1  
 $EndComp
@@ -64,6 +71,13 @@ F 0 "K4" H 8200 3350 50  0000 C CNN
 F 1 "ICSP" H 8200 2950 50  0000 C CNN
 F 2 "Toadstool:ICSP_Header_2x03" H 8200 1950 60  0001 C CNN
 F 3 "" H 8200 1950 60  0000 C CNN
+F 4 "3M" H 8200 3150 60  0001 C CNN "Manufacturer"
+F 5 "30306-6002HB" H 8200 3150 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 8200 3150 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 8200 3150 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 8200 3150 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 8200 3150 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "3460180P1" H 8200 3150 60  0001 C CNN "Contract_Manuf_SKU"
 	1    8200 3150
 	1    0    0    -1  
 $EndComp
@@ -75,6 +89,13 @@ F 0 "CON1" H 1550 1500 60  0000 C CNN
 F 1 "BARREL_JACK" H 1550 1050 60  0000 C CNN
 F 2 "Toadstool:BARREL_JACK_No_Slot" H 1550 1250 60  0001 C CNN
 F 3 "" H 1550 1250 60  0000 C CNN
+F 4 "CUI Inc" H 1550 1250 60  0001 C CNN "Manufacturer"
+F 5 "PJ-002A" H 1550 1250 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 1550 1250 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Kobiconn" H 1550 1250 60  0001 C CNN "Alt_Manufacturer"
+F 8 "163-5010-E" H 1550 1250 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 1550 1250 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "3410020P1" H 1550 1250 60  0001 C CNN "Contract_Manuf_SKU"
 	1    1550 1250
 	1    0    0    -1  
 $EndComp
@@ -86,6 +107,13 @@ F 0 "D1" H 2350 1250 40  0000 C CNN
 F 1 "DIODE" H 2350 1050 40  0000 C CNN
 F 2 "Toadstool:Diode_D3" H 2350 1150 60  0001 C CNN
 F 3 "" H 2350 1150 60  0000 C CNN
+F 4 "STMicroelectronics" H 2350 1150 60  0001 C CNN "Manufacturer"
+F 5 "1N5819" H 2350 1150 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 2350 1150 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Diodes Inc" H 2350 1150 60  0001 C CNN "Alt_Manufacturer"
+F 8 "1N5817-T" H 2350 1150 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 2350 1150 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "0300070P1" H 2350 1150 60  0001 C CNN "Contract_Manuf_SKU"
 	1    2350 1150
 	1    0    0    -1  
 $EndComp
@@ -97,6 +125,13 @@ F 0 "F1" V 3100 1200 50  0000 C CNN
 F 1 "750mA" V 2900 1150 50  0000 C CNN
 F 2 "Toadstool:MiniSMDPTC-4532" H 3000 1150 60  0001 C CNN
 F 3 "" H 3000 1150 60  0000 C CNN
+F 4 "TE Connectivity" H 3000 1150 60  0001 C CNN "Manufacturer"
+F 5 "MICROSMD050F-2" H 3000 1150 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 3000 1150 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 3000 1150 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 3000 1150 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 3000 1150 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "307010010" H 3000 1150 60  0001 C CNN "Contract_Manuf_SKU"
 	1    3000 1150
 	0    1    1    0   
 $EndComp
@@ -108,6 +143,13 @@ F 0 "C1" H 3600 1450 50  0000 L CNN
 F 1 "10uF" H 3600 1250 50  0000 L CNN
 F 2 "Toadstool:c_elec_4x5.3" H 3550 1350 60  0001 C CNN
 F 3 "" H 3550 1350 60  0000 C CNN
+F 4 "Nichicon" H 3550 1350 60  0001 C CNN "Manufacturer"
+F 5 "UWX1C100MCL1GB" H 3550 1350 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 3550 1350 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 3550 1350 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 3550 1350 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 3550 1350 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "302030059" H 3550 1350 60  0001 C CNN "Contract_Manuf_SKU"
 	1    3550 1350
 	1    0    0    -1  
 $EndComp
@@ -119,6 +161,13 @@ F 0 "C2" H 5500 1450 50  0000 L CNN
 F 1 "10uF" H 5500 1250 50  0000 L CNN
 F 2 "Toadstool:c_elec_4x5.3" H 5450 1350 60  0001 C CNN
 F 3 "" H 5450 1350 60  0000 C CNN
+F 4 "Nichicon" H 5450 1350 60  0001 C CNN "Manufacturer"
+F 5 "UWX1C100MCL1GB" H 5450 1350 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 5450 1350 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 5450 1350 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 5450 1350 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 5450 1350 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "302030059" H 5450 1350 60  0001 C CNN "Contract_Manuf_SKU"
 	1    5450 1350
 	1    0    0    -1  
 $EndComp
@@ -130,6 +179,13 @@ F 0 "K3" H 5150 2150 50  0000 C CNN
 F 1 "V-SELECT" V 5250 1950 50  0000 C CNN
 F 2 "Toadstool:Pin_Header_Straight_1x03" H 5150 1950 60  0001 C CNN
 F 3 "" H 5150 1950 60  0000 C CNN
+F 4 "Harwin" H 5150 1950 60  0001 C CNN "Manufacturer"
+F 5 "M20-9990345" H 5150 1950 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 5150 1950 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 5150 1950 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 5150 1950 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 5150 1950 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "3460810P1" H 5150 1950 60  0001 C CNN "Contract_Manuf_SKU"
 	1    5150 1950
 	1    0    0    -1  
 $EndComp
@@ -141,6 +197,13 @@ F 0 "D2" H 6400 1500 50  0000 C CNN
 F 1 "PWR" H 6400 1300 50  0000 C CNN
 F 2 "Toadstool:LED-0805" H 6400 1400 60  0001 C CNN
 F 3 "" H 6400 1400 60  0000 C CNN
+F 4 "Osram" H 6400 1400 60  0001 C CNN "Manufacturer"
+F 5 "LH R974" H 6400 1400 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 6400 1400 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Osram" H 6400 1400 60  0001 C CNN "Alt_Manufacturer"
+F 8 "LH R974-LP-1" H 6400 1400 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 6400 1400 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "0330020P1" H 6400 1400 60  0001 C CNN "Contract_Manuf_SKU"
 	1    6400 1400
 	0    1    1    0   
 $EndComp
@@ -174,6 +237,12 @@ F 0 "U1" H 4200 1450 40  0000 C CNN
 F 1 "LD1117" H 4200 1400 40  0000 C CNN
 F 2 "Toadstool:SOT-223" H 4200 1300 40  0000 C CNN
 F 3 "" H 4200 1200 60  0000 C CNN
+F 4 "STMicroelectronics" H 4200 1200 60  0001 C CNN "Manufacturer"
+F 5 "LD1117STR" H 4200 1200 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 4200 1200 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 4200 1200 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 4200 1200 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 4200 1200 60  0001 C CNN "Alt_Mfg_Package_Suffix"
 	1    4200 1200
 	1    0    0    -1  
 $EndComp
@@ -185,6 +254,13 @@ F 0 "R1" V 6130 1150 40  0000 C CNN
 F 1 "R330" V 6057 1151 40  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5980 1150 30  0001 C CNN
 F 3 "" H 6050 1150 30  0000 C CNN
+F 4 "TE Connectivity" H 6050 1150 60  0001 C CNN "Manufacturer"
+F 5 "CRG0805F330R" H 6050 1150 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 6050 1150 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Samsung" H 6050 1150 60  0001 C CNN "Alt_Manufacturer"
+F 8 "RC2012F331CS" H 6050 1150 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 6050 1150 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "0011330P1" H 6050 1150 60  0001 C CNN "Contract_Manuf_SKU"
 	1    6050 1150
 	0    1    1    0   
 $EndComp
@@ -196,6 +272,13 @@ F 0 "R3" V 4580 1850 40  0000 C CNN
 F 1 "200R" V 4507 1851 40  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 4430 1850 30  0001 C CNN
 F 3 "" H 4500 1850 30  0000 C CNN
+F 4 "Panasonic" H 4500 1850 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-6ENF2000V" H 4500 1850 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 4500 1850 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Samsung" H 4500 1850 60  0001 C CNN "Alt_Manufacturer"
+F 8 "RC2012F201CS" H 4500 1850 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 4500 1850 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "-" H 4500 1850 60  0001 C CNN "Contract_Manuf_SKU"
 	1    4500 1850
 	0    -1   -1   0   
 $EndComp
@@ -207,6 +290,13 @@ F 0 "R2" V 4980 1400 40  0000 C CNN
 F 1 "120R" V 4907 1401 40  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 4830 1400 30  0001 C CNN
 F 3 "" H 4900 1400 30  0000 C CNN
+F 4 "Panasonic" H 4900 1400 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-6ENF1200V" H 4900 1400 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 4900 1400 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Samsung" H 4900 1400 60  0001 C CNN "Alt_Manufacturer"
+F 8 "RC2012F121CS" H 4900 1400 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 4900 1400 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "301010194" H 4900 1400 60  0001 C CNN "Contract_Manuf_SKU"
 	1    4900 1400
 	-1   0    0    1   
 $EndComp
@@ -218,6 +308,13 @@ F 0 "R4" V 4580 2050 40  0000 C CNN
 F 1 "360R" V 4507 2051 40  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 4430 2050 30  0001 C CNN
 F 3 "" H 4500 2050 30  0000 C CNN
+F 4 "Panasonic" H 4500 2050 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-6ENF3600V" H 4500 2050 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 4500 2050 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Yageo" H 4500 2050 60  0001 C CNN "Alt_Manufacturer"
+F 8 "RC0805FR-07360RL" H 4500 2050 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 4500 2050 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "-" H 4500 2050 60  0001 C CNN "Contract_Manuf_SKU"
 	1    4500 2050
 	0    -1   -1   0   
 $EndComp
@@ -288,6 +385,13 @@ F 0 "C5" H 3000 4700 40  0000 L CNN
 F 1 "100nF" H 3006 4515 40  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3038 4450 30  0001 C CNN
 F 3 "" H 3000 4600 60  0000 C CNN
+F 4 "Kemet" H 3000 4600 60  0001 C CNN "Manufacturer"
+F 5 "C0805C104K5RACTU" H 3000 4600 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 3000 4600 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 3000 4600 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 3000 4600 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 3000 4600 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "302010165" H 3000 4600 60  0001 C CNN "Contract_Manuf_SKU"
 	1    3000 4600
 	1    0    0    -1  
 $EndComp
@@ -321,6 +425,13 @@ F 0 "R5" V 6130 5100 40  0000 C CNN
 F 1 "10k" V 6057 5101 40  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5980 5100 30  0001 C CNN
 F 3 "" H 6050 5100 30  0000 C CNN
+F 4 "TE Connectivity" H 6050 5100 60  0001 C CNN "Manufacturer"
+F 5 "CRG0805F10K" H 6050 5100 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 6050 5100 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Yageo" H 6050 5100 60  0001 C CNN "Alt_Manufacturer"
+F 8 "RC0805JR-0710KL" H 6050 5100 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 6050 5100 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "0011240P1" H 6050 5100 60  0001 C CNN "Contract_Manuf_SKU"
 	1    6050 5100
 	0    -1   -1   0   
 $EndComp
@@ -354,6 +465,13 @@ F 0 "K7" H 8350 5400 50  0000 C CNN
 F 1 "XTAL" V 8450 5250 50  0000 C CNN
 F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 8350 5250 60  0001 C CNN
 F 3 "" H 8350 5250 60  0000 C CNN
+F 4 "Preci-dip" H 8350 5250 60  0001 C CNN "Manufacturer"
+F 5 "310-87-102-41-001101" H 8350 5250 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 8350 5250 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 8350 5250 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 8350 5250 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 8350 5250 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "320030023" H 8350 5250 60  0001 C CNN "Contract_Manuf_SKU"
 	1    8350 5250
 	1    0    0    -1  
 $EndComp
@@ -365,6 +483,13 @@ F 0 "K5" H 8350 5000 50  0000 C CNN
 F 1 "PIN 2-8" V 8450 4600 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x07" H 8350 4600 60  0001 C CNN
 F 3 "" H 8350 4600 60  0000 C CNN
+F 4 "Wurth" H 8350 4600 60  0001 C CNN "Manufacturer"
+F 5 "61300711121" H 8350 4600 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 8350 4600 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 8350 4600 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 8350 4600 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 8350 4600 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "-" H 8350 4600 60  0001 C CNN "Contract_Manuf_SKU"
 	1    8350 4600
 	1    0    0    -1  
 $EndComp
@@ -376,6 +501,13 @@ F 0 "K9" H 8350 6000 50  0000 C CNN
 F 1 "PIN 11-14" V 8450 5750 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x04" H 8350 5750 60  0001 C CNN
 F 3 "" H 8350 5750 60  0000 C CNN
+F 4 "Wurth" H 8350 5750 60  0001 C CNN "Manufacturer"
+F 5 "61300411121" H 8350 5750 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 8350 5750 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 8350 5750 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 8350 5750 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 8350 5750 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "320020017" H 8350 5750 60  0001 C CNN "Contract_Manuf_SKU"
 	1    8350 5750
 	1    0    0    -1  
 $EndComp
@@ -387,6 +519,13 @@ F 0 "K8" H 9950 6000 50  0000 C CNN
 F 1 "PIN 15-19" V 10050 5700 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x05" H 9950 5700 60  0001 C CNN
 F 3 "" H 9950 5700 60  0000 C CNN
+F 4 "Wurth" H 9950 5700 60  0001 C CNN "Manufacturer"
+F 5 "61300511121" H 9950 5700 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 9950 5700 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 9950 5700 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 9950 5700 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 9950 5700 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "-" H 9950 5700 60  0001 C CNN "Contract_Manuf_SKU"
 	1    9950 5700
 	-1   0    0    1   
 $EndComp
@@ -398,6 +537,13 @@ F 0 "K6" H 9950 5100 50  0000 C CNN
 F 1 "PIN 21-28" V 10050 4650 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x08" H 9950 4650 60  0001 C CNN
 F 3 "" H 9950 4650 60  0000 C CNN
+F 4 "Wurth" H 9950 4650 60  0001 C CNN "Manufacturer"
+F 5 "61300811121" H 9950 4650 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 9950 4650 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 9950 4650 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 9950 4650 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 9950 4650 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "3461050P1" H 9950 4650 60  0001 C CNN "Contract_Manuf_SKU"
 	1    9950 4650
 	-1   0    0    1   
 $EndComp
@@ -538,6 +684,13 @@ F 0 "C4" H 6150 4450 40  0000 L CNN
 F 1 "22pF" H 6156 4265 40  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 6188 4200 30  0001 C CNN
 F 3 "" H 6150 4350 60  0000 C CNN
+F 4 "Kemet" H 6150 4350 60  0001 C CNN "Manufacturer"
+F 5 "C0805C220J1GACTU" H 6150 4350 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 6150 4350 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 6150 4350 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 6150 4350 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 6150 4350 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "0100620P1" H 6150 4350 60  0001 C CNN "Contract_Manuf_SKU"
 	1    6150 4350
 	0    1    1    0   
 $EndComp
@@ -549,6 +702,13 @@ F 0 "C3" H 6150 4050 40  0000 L CNN
 F 1 "22pF" H 6156 3865 40  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 6188 3800 30  0001 C CNN
 F 3 "" H 6150 3950 60  0000 C CNN
+F 4 "Kemet" H 6150 3950 60  0001 C CNN "Manufacturer"
+F 5 "C0805C220J1GACTU" H 6150 3950 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 6150 3950 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 6150 3950 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 6150 3950 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 6150 3950 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "0100620P1" H 6150 3950 60  0001 C CNN "Contract_Manuf_SKU"
 	1    6150 3950
 	0    1    1    0   
 $EndComp
@@ -559,16 +719,26 @@ Wire Wire Line
 Wire Wire Line
 	1850 1250 2000 1250
 Wire Wire Line
-	2000 1250 2000 1700
+	2000 1250 2000 1350
+Wire Wire Line
+	2000 1350 2000 1700
 Wire Wire Line
 	1850 1350 2000 1350
 Connection ~ 2000 1350
 Wire Wire Line
-	3250 1150 3800 1150
+	3250 1150 3550 1150
+Wire Wire Line
+	3550 1150 3800 1150
 Wire Wire Line
 	3550 1500 3550 1700
 Wire Wire Line
-	4600 1150 5900 1150
+	4600 1150 4900 1150
+Wire Wire Line
+	4900 1150 5450 1150
+Wire Wire Line
+	5450 1150 5650 1150
+Wire Wire Line
+	5650 1150 5900 1150
 Wire Wire Line
 	4650 1850 4950 1850
 Wire Wire Line
@@ -576,14 +746,18 @@ Wire Wire Line
 Wire Wire Line
 	4150 1850 4350 1850
 Wire Wire Line
-	4150 1850 4150 2300
+	4150 1850 4150 2050
+Wire Wire Line
+	4150 2050 4150 2300
 Wire Wire Line
 	4150 2050 4350 2050
 Connection ~ 4150 2050
 Wire Wire Line
 	4900 1950 4950 1950
 Wire Wire Line
-	4900 1550 4900 1950
+	4900 1550 4900 1700
+Wire Wire Line
+	4900 1700 4900 1950
 Wire Wire Line
 	4900 1700 4200 1700
 Wire Wire Line
@@ -614,9 +788,13 @@ Wire Wire Line
 Wire Wire Line
 	6300 5100 6300 4850
 Wire Wire Line
-	5250 4950 5800 4950
+	5250 4950 5700 4950
 Wire Wire Line
-	5700 4950 5700 5400
+	5700 4950 5800 4950
+Wire Wire Line
+	5700 4950 5700 5100
+Wire Wire Line
+	5700 5100 5700 5400
 Wire Wire Line
 	5700 5100 5900 5100
 Connection ~ 5700 4950
@@ -733,9 +911,13 @@ Wire Wire Line
 Wire Wire Line
 	5650 3950 5650 4100
 Wire Wire Line
-	5250 4100 5750 4100
+	5250 4100 5650 4100
 Wire Wire Line
-	5250 4200 5750 4200
+	5650 4100 5750 4100
+Wire Wire Line
+	5250 4200 5650 4200
+Wire Wire Line
+	5650 4200 5750 4200
 Wire Wire Line
 	5650 4200 5650 4350
 Wire Wire Line
@@ -760,7 +942,9 @@ $EndComp
 Wire Wire Line
 	6300 3950 6550 3950
 Wire Wire Line
-	6550 3950 6550 4550
+	6550 3950 6550 4350
+Wire Wire Line
+	6550 4350 6550 4550
 Wire Wire Line
 	6300 4350 6550 4350
 Connection ~ 6550 4350
@@ -784,6 +968,13 @@ F 0 "SW1" H 6150 5510 50  0000 C CNN
 F 1 "RESET" H 6000 5320 50  0000 C CNN
 F 2 "Toadstool:Switch_SMT_Alps_SKQGAxE010" H 6000 5400 60  0001 C CNN
 F 3 "" H 6000 5400 60  0000 C CNN
+F 4 "C and K Components" H 6000 5400 60  0001 C CNN "Manufacturer"
+F 5 "KSEM31G LFS" H 6000 5400 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 6000 5400 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "Alps" H 6000 5400 60  0001 C CNN "Alt_Manufacturer"
+F 8 "SKQGAFE010" H 6000 5400 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 6000 5400 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "311020017" H 6000 5400 60  0001 C CNN "Contract_Manuf_SKU"
 	1    6000 5400
 	1    0    0    -1  
 $EndComp
@@ -802,7 +993,11 @@ $EndComp
 Wire Wire Line
 	6300 5400 6300 5750
 Wire Wire Line
-	3000 2900 3000 4450
+	3000 2900 3000 3500
+Wire Wire Line
+	3000 3500 3000 3800
+Wire Wire Line
+	3000 3800 3000 4450
 Wire Wire Line
 	3350 3500 3000 3500
 Connection ~ 3000 3500
@@ -810,7 +1005,11 @@ Wire Wire Line
 	3350 3800 3000 3800
 Connection ~ 3000 3800
 Wire Wire Line
-	3000 4750 3000 6450
+	3000 4750 3000 5700
+Wire Wire Line
+	3000 5700 3000 5800
+Wire Wire Line
+	3000 5800 3000 6450
 Wire Wire Line
 	3000 5800 3350 5800
 Wire Wire Line
@@ -825,6 +1024,13 @@ F 0 "K2" H 10250 1900 50  0000 C CNN
 F 1 "CAP_CONN_RHS" H 10250 1200 50  0000 C CNN
 F 2 "Toadstool:Socket_Strip_Straight_1x06" H 10250 350 60  0001 C CNN
 F 3 "" H 10250 350 60  0000 C CNN
+F 4 "Samtec" H 10250 1550 60  0001 C CNN "Manufacturer"
+F 5 "ESQ-106-12-G-S" H 10250 1550 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 10250 1550 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "4UConnector" H 10250 1550 60  0001 C CNN "Alt_Manufacturer"
+F 8 "15170" H 10250 1550 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 10250 1550 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "-" H 10250 1550 60  0001 C CNN "Contract_Manuf_SKU"
 	1    10250 1550
 	1    0    0    -1  
 $EndComp
@@ -836,6 +1042,13 @@ F 0 "K1" H 9600 1900 50  0000 C CNN
 F 1 "CAP_CONN_LHS" H 9600 1200 50  0000 C CNN
 F 2 "Toadstool:Socket_Strip_Straight_1x06" H 9600 350 60  0001 C CNN
 F 3 "" H 9600 350 60  0000 C CNN
+F 4 "Samtec" H 9600 1550 60  0001 C CNN "Manufacturer"
+F 5 "ESQ-106-12-G-S" H 9600 1550 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 9600 1550 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "4UConnector" H 9600 1550 60  0001 C CNN "Alt_Manufacturer"
+F 8 "15170" H 9600 1550 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 9600 1550 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "-" H 9600 1550 60  0001 C CNN "Contract_Manuf_SKU"
 	1    9600 1550
 	1    0    0    -1  
 $EndComp
@@ -917,4 +1130,68 @@ Wire Wire Line
 	5450 1150 5450 1200
 Wire Wire Line
 	6200 5100 6300 5100
+$Comp
+L BOM BOM1
+U 1 1 555E9905
+P 1150 6250
+F 0 "BOM1" H 1150 6550 60  0000 C CNN
+F 1 "ATmega328P-PU" H 1150 6000 60  0000 C CNN
+F 2 "" H 1300 6550 60  0000 C CNN
+F 3 "" H 1300 6550 60  0000 C CNN
+F 4 "Atmel" H 1150 6250 60  0001 C CNN "Manufacturer"
+F 5 "ATmega328P-PU" H 1150 6250 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 1150 6250 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 1150 6250 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 1150 6250 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 1150 6250 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "1030050P1" H 1150 6250 60  0001 C CNN "Contract_Manuf_SKU"
+	1    1150 6250
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	700  5850 2300 5850
+Wire Notes Line
+	2300 5850 2300 7650
+Wire Notes Line
+	2300 7650 700  7650
+Wire Notes Line
+	700  7650 700  5850
+Text Notes 1100 7750 0    59   ~ 0
+BOM-Only Components
+$Comp
+L BOM BOM2
+U 1 1 5560C6BA
+P 1150 7000
+F 0 "BOM2" H 1150 7300 60  0000 C CNN
+F 1 "Crystal 16MHz" H 1150 6750 60  0000 C CNN
+F 2 "" H 1300 7300 60  0000 C CNN
+F 3 "" H 1300 7300 60  0000 C CNN
+F 4 "Fox Electronics" H 1150 7000 60  0001 C CNN "Manufacturer"
+F 5 "FOXSLF/160-20" H 1150 7000 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 1150 7000 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 1150 7000 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 1150 7000 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 1150 7000 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "306010037" H 1150 7000 60  0001 C CNN "Contract_Manuf_SKU"
+	1    1150 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L BOM BOM?
+U 1 1 55A9EB45
+P 1900 6250
+F 0 "BOM?" H 1900 6550 60  0000 C CNN
+F 1 "2-pin Jumper" H 1900 6000 60  0000 C CNN
+F 2 "" H 2050 6550 60  0000 C CNN
+F 3 "" H 2050 6550 60  0000 C CNN
+F 4 "RS Electronics" H 1900 6250 60  0001 C CNN "Manufacturer"
+F 5 "674-2397" H 1900 6250 60  0001 C CNN "Mfg_Part_No"
+F 6 "-" H 1900 6250 60  0001 C CNN "Mfg_Package_Suffix"
+F 7 "-" H 1900 6250 60  0001 C CNN "Alt_Manufacturer"
+F 8 "-" H 1900 6250 60  0001 C CNN "Alt_Mfg_Part_No"
+F 9 "-" H 1900 6250 60  0001 C CNN "Alt_Mfg_Package_Suffix"
+F 10 "-" H 1900 6250 60  0001 C CNN "Contract_Manuf_SKU"
+	1    1900 6250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

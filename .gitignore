@@ -50,3 +50,5 @@ Temporary Items
 *.pdf
 *cache*
 *.csv
+Schematics/toadstool mega328-cache.lib
+*.xml
